@@ -1,6 +1,6 @@
 [NeuroYoutubeLink]: https://www.youtube.com/@Neurosama "Neuro-sama is the cutest V-tuber ever!"
 
-# git-practice
+# 2025-05-20
 **Welcome!**
 <img src="/assets/img/neuro_welcome.gif" wigth="20%" height="20%" alt="welcoming neuro"></img>
 * * *
