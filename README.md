@@ -2,7 +2,7 @@
 
 # git-practice
 **Welcome!**
-<img src="/docs/image/neuro_welcome.gif" wigth="20%" height="20%" alt="welcoming neuro"></img>
+<img src="/assets/img/neuro_welcome.gif" wigth="20%" height="20%" alt="welcoming neuro"></img>
 * * *
 [Neuro][NeuroYoutubeLink]'s wAeSomE quotes in response to Evil:   
 
@@ -14,4 +14,4 @@ also saids:
 
 * * *
 She's twitch: <https://www.twitch.tv/neurosama>   
-<img src="/docs/image/neuro_pet.gif" wigth="300%" height="300%" alt="petting neuro"></img>
+<img src="/assets/img/neuro_pet.gif" wigth="300%" height="300%" alt="petting neuro"></img>
