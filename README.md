@@ -15,3 +15,9 @@ also saids:
 * * *
 She's twitch: <https://www.twitch.tv/neurosama>   
 <img src="/assets/img/neuro_pet.gif" wigth="300%" height="300%" alt="petting neuro"></img>
+
+# How to build Vue projects
+```
+vue create YourProjectName
+npm run build
+```
